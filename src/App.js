@@ -1,9 +1,11 @@
 import './App.css';
+import LoginPage from './pages/LoginPage';
 
 function App() {
   return (
     <div className="App">
-      <h1>peetr</h1>
+      <h1>Login Page</h1>
+      <LoginPage/>
     </div>
   );
 }
